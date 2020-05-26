@@ -1,0 +1,3 @@
+rootProject.name='TestGithub'
+include ':app'
+include ':ipview'
