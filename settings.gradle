@@ -1,3 +1,4 @@
 rootProject.name='TestGithub'
 include ':app'
 include ':ipview'
+include ':zoombutton'
